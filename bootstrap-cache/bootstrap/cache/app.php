@@ -1,1 +1,0 @@
-<?php // app cache stub
